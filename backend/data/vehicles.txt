@@ -1,0 +1,8 @@
+1,ABC-1234,Car,Toyota,2
+2,XYZ-9876,Bike,Yamaha,2
+3,VAN-5555,Van,Nissan,3
+4,abc,Car,toyota,2
+5,ABC123,Car,toyota,4
+6,TOYOTA PREMIO,Car,TOYOTA,7
+8,D321H,Van,NISSAN ,7
+7,BD123A,Car,GMC,10
