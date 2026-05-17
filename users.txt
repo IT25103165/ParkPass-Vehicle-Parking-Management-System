@@ -1,0 +1,12 @@
+1,Admin User,admin@parking.com,admin123,ADMIN
+2,John Doe,john@example.com,pass123,CUSTOMER
+3,Jane Smith,jane@example.com,pass123,CUSTOMER
+4,Barney Stinson,Barney130@gmail.com,hhggff123,CUSTOMER
+5,jj stintan,jj130@gmail.com,jjggtt33,CUSTOMER
+6,Senithu Niduwara,chammi130@gmail.com,senith123,CUSTOMER
+7,Admin,senithu130@gmail.com,senith123fjfjf,CUSTOMER
+8,jamie,jamie130@gmail.com,jamie123,ADMIN
+9,Mahinda Rajapaksha,mahi123@gmail.com,mahi123,ADMIN
+10,Geralt of Rivia,geralt123@gmail.com,ciri123@,CUSTOMER
+11,Tony Stark,tony130@gmail.com,arc123,ADMIN
+12,Dexter Morgan,dex123@gmail.com,dex123,CUSTOMER
