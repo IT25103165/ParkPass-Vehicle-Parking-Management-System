@@ -41,7 +41,6 @@ public class ParkingRecord {
         return slot;
     }
 
-
     public void setSlot(ParkingSlot slot) {
         this.slot = slot;
     }
